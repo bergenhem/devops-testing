@@ -77,6 +77,7 @@ function App() {
         </h1>
         <h2>Initial branch commit - now taken to the next level</h2>
         <p>WITNESS SCHMEE.</p>
+        <p>Another paragraph!</p>
         <p class={styles.environmentText}>Current Environment: {envVar ? envVar : "Local"}</p>
         <Show
           when={errorStart()}
