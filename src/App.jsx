@@ -84,7 +84,7 @@ function App() {
         </Show>
       </header>
       <p>
-        Well hell yeah, here we are. There's more work to be done.
+        Let's test some features!
       </p>
     </div>
   );
