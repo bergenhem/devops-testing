@@ -83,6 +83,9 @@ function App() {
           <button class={styles.sampleButton} onClick={errorClick}>Stop Errors</button>
         </Show>
       </header>
+      <p>
+        Well hell yeah, here we are.
+      </p>
     </div>
   );
 }
