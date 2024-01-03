@@ -87,7 +87,7 @@ function App() {
         Let's test some features!
       </p>
       <p>
-        Another test
+        Another test - let's make it work!
       </p>
     </div>
   );
