@@ -87,7 +87,7 @@ function App() {
         Let's test some features!
       </p>
       <p>
-        Adding some more text
+        Adding some more text - now with comments?
       </p>
     </div>
   );
