@@ -86,6 +86,9 @@ function App() {
       <p>
         Let's test some features!
       </p>
+      <p>
+        Adding some more text
+      </p>
     </div>
   );
 }
