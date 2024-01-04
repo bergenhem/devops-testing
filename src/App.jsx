@@ -87,7 +87,7 @@ function App() {
         Let's test some features!
       </p>
       <p>
-        What if we only notify the issue on PR merge?
+        Important tests
       </p>
     </div>
   );
