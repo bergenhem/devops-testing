@@ -87,7 +87,7 @@ function App() {
         Let's test some features!
       </p>
       <p>
-        Wow, look at all these notifications
+        Wow, look at all these notifications. Testing this again
       </p>
     </div>
   );
