@@ -87,7 +87,7 @@ function App() {
         Let's test some features!
       </p>
       <p>
-        Important tests
+        No-so-important tests
       </p>
     </div>
   );
