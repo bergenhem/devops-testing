@@ -84,7 +84,7 @@ function App() {
         </Show>
       </header>
       <p>
-        All regret all the time.
+        No more regret!
       </p>
       <p>
         More PR testing. Getting it right.
