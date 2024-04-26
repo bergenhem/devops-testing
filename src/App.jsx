@@ -84,7 +84,7 @@ function App() {
         </Show>
       </header>
       <p>
-        Damn it feels good to have 0 regrets.
+        Now, this is a feature
       </p>
       <p>
         Woohoo \o/
