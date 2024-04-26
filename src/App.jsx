@@ -84,7 +84,7 @@ function App() {
         </Show>
       </header>
       <p>
-        Let's test some features!
+        Now, this is a feature
       </p>
       <p>
         More PR testing. Getting it right.
