@@ -87,7 +87,7 @@ function App() {
         Damn it feels good to have 0 regrets.
       </p>
       <p>
-        More PR testing. Getting it right.
+        Woohoo \o/
       </p>
     </div>
   );
