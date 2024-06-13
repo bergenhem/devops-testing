@@ -87,7 +87,7 @@ function App() {
         Now, this is a feature
       </p>
       <p>
-        Woohoo \o/
+        Now this is a wonderful set of metrics.
       </p>
     </div>
   );
