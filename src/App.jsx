@@ -87,7 +87,7 @@ function App() {
         Now, this is a feature
       </p>
       <p>
-        Yessiree.
+        Another test.
       </p>
     </div>
   );
