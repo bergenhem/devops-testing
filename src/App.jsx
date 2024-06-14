@@ -87,7 +87,7 @@ function App() {
         Now, this is a feature
       </p>
       <p>
-        Interesting?
+        First commit and first PR. Another one.
       </p>
     </div>
   );
